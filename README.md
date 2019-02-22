@@ -1,2 +1,2 @@
 # test
-L'arc~en~ciel
+テスト用リポジトリ
